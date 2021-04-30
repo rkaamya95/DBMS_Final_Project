@@ -1,4 +1,7 @@
-#Abstract
+# **E-Banking industry analysis and Fraud detection**
+
+
+## **Abstract**
 
 In today’s world everything is going digital, i.e., paperless and cashless. Banking world is also trying to move all of its operations online by providing E-Banking facilities to its account holders. E-banking facility makes it easy for the account holder to operate the entire banking facilities from one place i.e., right from doing transactions online, making payments, paying bills etc. can be done at one go by making it user friendly. It also provides 24hrs access to all the banking services.
 
