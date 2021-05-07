@@ -1,0 +1,17 @@
+,time_zone_1,time_zone_2,min_diff
+,Central Time Zone,Hawaii-Aleutian Time Zone,4
+,Central Time Zone,Alaska Time Zone,3
+,Central Time Zone,Mountain Time Zone,1
+,Central Time Zone,Eastern Time Zone,1
+,Central Time Zone,Pacific Time Zone,2
+,Hawaii-Aleutian Time Zone,Alaska Time Zone,1
+,Hawaii-Aleutian Time Zone,Mountain Time Zone,3
+,Hawaii-Aleutian Time Zone,Eastern Time Zone,5
+,Hawaii-Aleutian Time Zone,Pacific Time Zone,2
+,Alaska Time Zone,Mountain Time Zone,2
+,Alaska Time Zone,Eastern Time Zone,4
+,Alaska Time Zone,Pacific Time Zone,1
+,Mountain Time Zone,Eastern Time Zone,2
+,Mountain Time Zone,Pacific Time Zone,1
+,Eastern Time Zone,Pacific Time Zone,3
+,,,
