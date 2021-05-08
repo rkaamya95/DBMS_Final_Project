@@ -83,3 +83,13 @@ SELECT TRANS_ID FROM transaction_category WHERE FULLTIME BETWEEN '00:00:00' AND 
 THEN 'YES'
 ELSE 'NO'
 END);
+
+
+#### Finding out the most vulnerable age group that are prone to Frauds ##
+			       
+select t.Age_group,t.FraudFlag, COUNT(t.FraudFlag) as Number_of_Frauds from (select a.AccountID,a.Amount,c.Age_group, if(Amount<10,"Y","N") as FraudFlag from customer_transaction a
+inner  join  customer_disposition b  on a.AccountID=b.AccountID 
+inner join customerdetails c on b.Clientid=c.Clientid) as t
+where t.FraudFlag<>'N' and t.Age_group is not null
+group by t.Age_group
+			       
