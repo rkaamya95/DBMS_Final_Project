@@ -84,6 +84,12 @@ THEN 'YES'
 ELSE 'NO'
 END);
 
+
+## Determining the category type prone to fradulent transaction ##
+			       
+SELECT TRANSACTION_CATEGORY, COUNT(TRANSACTION_CATEGORY) AS TOTAL_COUNT,IS_FRAUD AS FRAUD_FLAG 
+FROM TRAN_CATEGORY WHERE IS_FRAUD='YES' GROUP BY TRANSACTION_CATEGORY;
+			       
 			       
 #### Finding out the list of customers exceeding the payee limit per day ##
 
