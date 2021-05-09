@@ -84,6 +84,14 @@ THEN 'YES'
 ELSE 'NO'
 END);
 
+			       
+#### Finding out the list of customers exceeding the payee limit per day ##
+
+select a.from_accountID,c.FirstName,c.LastName,b.clientid,count(payee_name) as payee_count,a.Date_payee_added,if(count(payee_name) > 3,"Y","N") as Fraud_Flag from payee_records a 
+inner join customer_disposition b on b.accountid=a.from_accountID 
+inner join customer_details c on c.clientid=b.clientid where b.type = 'Owner'
+group by a.from_accountID,a.Date_payee_added;
+			       
 
 #### Finding out the most vulnerable age group that are prone to Frauds ##
 			       
