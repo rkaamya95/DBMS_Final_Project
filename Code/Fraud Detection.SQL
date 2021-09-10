@@ -19,7 +19,7 @@ SET
      else ' ' end);
 
 ######################******
-#Query #3. - Adding categories to more transaciton using Random function
+#Query #3. - Adding categories to more transaction using Random function
 UPDATE Data225_final_project.customer_transaction ctran
 SET tran_cat = 
 		ELT(0.5 + RAND() * 6, 'Gift Card', 'Online Purchase', 'Jewellery', 'Electronics', 'Remittance', 'OtherDebits')
