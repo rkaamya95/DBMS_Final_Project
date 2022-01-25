@@ -1,4 +1,4 @@
-# **E-Banking Industry Analysis and Fraud detection**
+# **Explaoratory Data Analysis and Fraud detection in the E-Banking Industry**
 
 
 ## **Overview**
