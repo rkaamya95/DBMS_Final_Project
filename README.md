@@ -14,9 +14,14 @@ With this project, we will be working on a huge data set on e-banking and perfor
 ![Slide2](https://user-images.githubusercontent.com/66448653/151079893-b08ec951-d06b-46d1-b5ca-d8052ab5ee4a.PNG)
 ![Slide3](https://user-images.githubusercontent.com/66448653/151079898-7462ffe9-bfbb-4914-b711-641a409d2951.PNG)
 ![Slide4](https://user-images.githubusercontent.com/66448653/151079901-7a4a76ff-0fce-4842-ab30-976a65fb237e.PNG)
+
+**Architecture Diagram**
 ![Slide5](https://user-images.githubusercontent.com/66448653/151079907-d89c17f7-9044-4dd5-95a8-0354de70590f.PNG)
+
+**Tools & Technologies Used*
 ![Slide6](https://user-images.githubusercontent.com/66448653/151079912-2e990b38-afdf-4dc1-8532-9f979405aea7.PNG)
 ![Slide7](https://user-images.githubusercontent.com/66448653/151079920-04b17f61-6003-461a-9da2-a6ec68849136.PNG)
+
 ![Slide8](https://user-images.githubusercontent.com/66448653/151079925-f63606b4-8281-4fac-a01f-e99355e72388.PNG)
 ![Slide9](https://user-images.githubusercontent.com/66448653/151079927-83ff56b6-40f0-46af-8196-7e0d0a0abc84.PNG)
 ![Slide10](https://user-images.githubusercontent.com/66448653/151079932-78c4cbcb-40a2-4e18-a046-f5fbf15c0d9b.PNG)
