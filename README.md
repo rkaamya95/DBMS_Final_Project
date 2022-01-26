@@ -1,4 +1,6 @@
-# **Explaoratory Data Analysis and Fraud detection in the E-Banking Industry**
+# **Exploratory Data Analysis and Fraud detection in the E-Banking Industry**
+
+![Slide1](https://user-images.githubusercontent.com/66448653/151079888-2044a4d9-d9d0-47cc-878f-49bb38c6a1cb.PNG)
 
 
 ## **Overview**
@@ -9,7 +11,6 @@ With everything going digital, there are high chances of E-banking frauds as wel
 
 With this project, we will be working on a huge data set on e-banking and perform data mining and analysis on the same. We will summarize the use of e-banking among different users based on the age group, gender, region, transactions performed etc.
 
-![Slide1](https://user-images.githubusercontent.com/66448653/151079888-2044a4d9-d9d0-47cc-878f-49bb38c6a1cb.PNG)
 ![Slide2](https://user-images.githubusercontent.com/66448653/151079893-b08ec951-d06b-46d1-b5ca-d8052ab5ee4a.PNG)
 ![Slide3](https://user-images.githubusercontent.com/66448653/151079898-7462ffe9-bfbb-4914-b711-641a409d2951.PNG)
 ![Slide4](https://user-images.githubusercontent.com/66448653/151079901-7a4a76ff-0fce-4842-ab30-976a65fb237e.PNG)
